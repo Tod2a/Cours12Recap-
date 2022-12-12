@@ -4,7 +4,13 @@ if (age != null) {
     9/3
 }
 
-if (typeof elem !== 'undefined') {
+if (typeof age !== 'undefined') {
+    age*2
+} else {
+    9/3
+}
+
+if (age) {
     age*2
 } else {
     9/3
