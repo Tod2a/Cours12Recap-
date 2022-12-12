@@ -15,3 +15,5 @@ if (age) {
 } else {
     9/3
 }
+
+age ? age*2 : 9/3
